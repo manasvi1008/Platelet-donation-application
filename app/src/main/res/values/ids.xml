@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etName" type="id" />
+    <item name="etAddress" type="id" />
+    <item name="etMobile" type="id" />
+    <item name="btnPost" type="id" />
+    <item name="list_item_donation_post" type="id" />
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873428339171",
+    "project_id": "platelet-app",
+    "storage_bucket": "platelet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873428339171:android:d4e813c19a6a634755b8d6",
+        "android_client_info": {
+          "package_name": "com.example.plateletapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873428339171-35mtji8h18v8rdm4emcf2c7u6tafg8hv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plateletapp",
+            "certificate_hash": "086f09a5d057a6419f88a1ed4da8e6bf23035d9a"
+          }
+        },
+        {
+          "client_id": "873428339171-a1cou75u6v763psac6um897685mhk84k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdOzFrTB3O4VeocaFgvIb3TEhl0Fv8RZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873428339171-a1cou75u6v763psac6um897685mhk84k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
